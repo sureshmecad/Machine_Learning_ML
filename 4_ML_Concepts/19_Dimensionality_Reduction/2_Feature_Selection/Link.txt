@@ -1,0 +1,8 @@
+
+ 1. https://www.youtube.com/watch?v=vZDDmULsCUU              ---    Feature Selection Techniques
+
+ 2. https://www.youtube.com/watch?v=EqLBAmtKMnQ&t=37s        ---    Feature Selection Techniques                           ---     Krish Naik
+
+ 3. https://www.youtube.com/watch?v=1JXrxCJoHuw&t=98s        ---    Advance House Price Prediction-Feature Selection       ---     Krish Naik
+
+ 4. https://www.youtube.com/watch?v=YaKMeAlHgqQ              ---    How do I select features for Machine Learning?         ---     Data school

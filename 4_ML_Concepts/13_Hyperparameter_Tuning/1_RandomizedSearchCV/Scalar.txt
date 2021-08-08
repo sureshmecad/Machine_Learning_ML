@@ -1,0 +1,29 @@
+
+
+
+Feature Scaling / Standard Scalar:
+
+  Age and Estimated salary are in different units. 
+       Age is in no of yrs
+       Estimated salary in INR (or) Dollars (or) Euros
+
+  We need to bring down all these values into same scaling.
+
+
+
+
+----> is it compulsory to do scaling for tree based algorithms?
+
+      Why is he standardizing when he is using Random Forest,which has no concept of eucledian distance?
+
+          - no, as per the rule it is not advisable to do scaling in tree based algo( but no one is stopping you to do that.) it wont be useful anyway.
+
+          - Not required. Because decision tree makes decision based on the label and the tree traversal to a node will be same when you do with/without scaling.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  you did not use ".values" while defining X&y.(you did not need an array). But here you have. Would you kindly explain why and when should one use ".values" in general?
+
+
+       I will use .values only when i need the dataset in array form. The reason i convert into arrays is that if we are using sklearn libraries it is always better to give in the array format
